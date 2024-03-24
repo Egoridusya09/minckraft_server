@@ -1,0 +1,11 @@
+body {background-color: aqua;background-image:url('bg.jpeg');background-size: cover;background-position :left bottom; background-attachment: fixed;display: inline-block;}
+.mini {width: 500px;height: 500px;margin: 30px 0px;border: 5px solid  black ;}
+.minik {width: 700px;height: 500px;margin: 30px 0px;border: 5px solid  black ;}
+footer {background-color: black;}
+.whi{color:white;}
+p {font-size: arial;color: white;}
+h2 {margin: 30px 0px;font-family:Times;color: orange;;}
+a {margin: 0px 30px 0px 0px;color: white;font-weight: 700}
+h1 {color: aqua;}
+ h3 {color:aquamarine}
+div {vertical-align: top;display: inline-block;}
